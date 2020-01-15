@@ -22,7 +22,7 @@ int main() {
 	cout << "Press 2 to translate modern numbers to Roman numbers" << endl;
 	cout << "Press 3 to see options" << endl;
 	cout << "Press 4 to exit" << endl<<endl;
-	cout << "This is a test" << endl;
+	cout << "This is test 2" << endl;
 
 	do {
 		cout << "Enter options:";
